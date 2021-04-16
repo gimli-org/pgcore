@@ -22,13 +22,13 @@ try:
 except:
     long_description = "Geophysical Inversion and Modelling Library Core"
 
-setup(name="pygimli",
+setup(name="pgcore",
     ############################################################################
     # Do not edit next two lines, do "git tag v1.x.x; git push --tags" instead.
     version="1.2.0",
     # cmdclass=versioneer.get_cmdclass(),
     ############################################################################
-    description="Geophysical Inversion and Modelling Library Core",
+    description="Geophysical Inversion and Modelling Library C++ Core",
     long_description=long_description,
     author="Carsten Rücker, Thomas Günther, Florian Wagner",
     author_email="mail@pygimli.org",
