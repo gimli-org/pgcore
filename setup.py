@@ -25,7 +25,7 @@ except:
 setup(name="pgcore",
     ############################################################################
     # Do not edit next two lines, do "git tag v1.x.x; git push --tags" instead.
-    version="1.2.0",
+    version="1.2.2",
     # cmdclass=versioneer.get_cmdclass(),
     ############################################################################
     description="Geophysical Inversion and Modelling Library C++ Core",
